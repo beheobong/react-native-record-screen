@@ -74,7 +74,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation 'com.github.HBiSoft:HBRecorder:0.1.15'
+    implementation 'com.github.HBiSoft:HBRecorder:2.0.3'
 }
 
 def configureReactNativePom(def pom) {
